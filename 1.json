@@ -1,0 +1,75 @@
+var abc=  
+[
+    {
+      "rank": "1",
+      "team": "",
+      "match": "10",
+      "won": "8",
+      "lost": "2",
+      "net rr": "-0.733",
+      "points": "6"
+    },
+    {
+      "rank": "2",
+      "team": "",
+      "match": "10",
+      "won": "5",
+      "lost": "5",
+      "net rr": "+0.182",
+      "points": "14"
+    },
+    {
+      "rank": "3",
+      "team": "",
+      "match": "10",
+      "won": "7",
+      "lost": "3",
+      "net rr": "+1.448",
+      "points": "14"
+    },
+    {
+      "rank": "4",
+      "team": "",
+      "match": "10",
+      "won": "4",
+      "lost": "6",
+      "net rr": "+0.222",
+      "points": "8"
+    },
+    {
+      "rank": "5",
+      "team": "",
+      "match": "10",
+      "won": "7",
+      "lost": "3",
+      "net rr": "+0.774",
+      "points": "14"
+    },
+    {
+      "rank": "6",
+      "team": "",
+      "match": "10",
+      "won": "4",
+      "lost": "6",
+      "net rr": "-0.177",
+      "points": "8"
+    },
+    {
+      "rank": "7",
+      "team": "",
+      "match": "10",
+      "won": "5",
+      "lost": "5",
+      "net rr": "+0.12",
+      "points": "10"
+    },
+    {
+      "rank": "8",
+      "team": "",
+      "match": "10",
+      "won": "4",
+      "lost": "6",
+      "net rr": "-0.620",
+      "points": "8"
+    }
+  ];

@@ -1,0 +1,159 @@
+body
+{
+    margin: 0px;
+}
+
+#header
+{
+    background-color: #141414;
+    width: 1345px;
+    height: 100px;
+    margin-top: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#img1
+{
+    height: 80px;
+    width: 150px;
+    margin-left: 0px;
+    padding: 10px 8px;
+    float: right;
+}
+
+#img2
+{
+    height: 80px;
+    width: 150px;
+    float: left;
+    padding: 10px 8px;
+}
+
+.IPL
+{
+    font-family: 'Times New Roman' , sans-serif;
+    text-align: center;
+    color: white;
+    position: relative;
+}
+
+.text
+{
+    font-family: 'Times New Roman',  sans-serif;
+    text-align: center;
+    color: white;
+    position: absolute;
+    left: 600px;
+    top: 50px;
+}
+
+#tablebody
+{
+    background-color: rgb(230, 225, 225);
+    width: 100%;
+    height: 643px;
+    font-style: italic;
+    font-weight: bold;
+    box-sizing: content-box;
+}
+
+#table
+{
+    position: absolute;
+    left: 230px;
+    top: 150px;
+    width: 1000px;
+    overflow: hidden;
+    margin: auto;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+#table td , table th
+{
+    padding: 1px;
+    padding-left: 25px;
+}
+
+#head
+{
+    background-color: rgb(245, 237, 237);
+    color: black;
+    border-right: 1.5px solid black;
+    border-left:  1.5px solid black;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+#r1
+{
+    background-color: rgb(241, 241, 38);
+    color: black;
+    border-bottom: 1.5px solid black;
+    border-right: 1.5px solid black;
+    border-left:  1.5px solid black;
+}
+
+#r2
+{
+    background-color: rgb(97, 94, 94);
+    color: black;
+    border-bottom: 1.5px solid black;
+    border-right: 1.5px solid black;
+    border-left:  1.5px solid black;
+}
+
+#r3
+{
+    background-color: rgb(32, 119, 218);
+    color: black;
+    border-bottom: 1.5px solid black;
+    border-right: 1.5px solid black;
+    border-left:  1.5px solid black;
+}
+
+#r4
+{
+    background-color: rgb(235, 97, 33);
+    color: black;
+    border-bottom: 1.5px solid black;
+    border-right: 1.5px solid black;
+    border-left:  1.5px solid black;
+}
+
+#r5
+{
+    background-color: rgb(21, 80, 148);
+    color: black;
+    border-bottom: 1.5px solid black;
+    border-right: 1.5px solid black;
+    border-left:  1.5px solid black;
+}
+
+#r6
+{
+    background-color: rgb(235, 49, 49);
+    color: black;
+    border-bottom: 1.5px solid black;
+    border-right: 1.5px solid black;
+    border-left:  1.5px solid black;
+}
+
+#r7
+{
+    background-color: rgb(79, 37, 156);
+    color: black;
+    border-bottom: 1.5px solid black;
+    border-right: 1.5px solid black;
+    border-left:  1.5px solid black;
+}
+
+#r8
+{
+    background-color: rgb(206, 39, 142);
+    color: black;
+    border-bottom: 1.5px solid black;
+    border-right: 1.5px solid black;
+    border-left:  1.5px solid black;
+}
